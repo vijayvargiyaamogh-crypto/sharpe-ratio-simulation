@@ -26,19 +26,19 @@ The following examples use the same simulation parameters, with only the Sharpe 
 
 ### Sharpe Ratio = 0.5
 
-![Sharpe Ratio 0.5](images/sharpe_0.5.png)
+![Sharpe Ratio 0.5](sharpe_0.5.png)
 
 ### Sharpe Ratio = 1.0
 
-![Sharpe Ratio 1.0](images/sharpe_1.png)
+![Sharpe Ratio 1.0](sharpe_1.png)
 
 ### Sharpe Ratio = 1.5
 
-![Sharpe Ratio 1.5](images/sharpe_1.5.png)
+![Sharpe Ratio 1.5](sharpe_1.5.png)
 
 ### Sharpe Ratio = 2.0
 
-![Sharpe Ratio 2.0](images/sharpe_2.png)
+![Sharpe Ratio 2.0](sharpe_2.png)
 
 ## Running
 
